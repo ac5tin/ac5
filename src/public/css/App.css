@@ -35,12 +35,25 @@
 }
 
 
-/* about section */
-#about{
+/* seciton paddings */
+#about,#footer{
     padding: 1rem 1rem 5rem 1rem;
 }
 
+
+/* about section */
 #about h1{
     font-size: 1.5rem;
 }
 
+/* footer */
+#footer a{
+    padding: 0 1rem 0 1rem;
+}
+
+#footer{
+    border-top-color: #b0b0b0;
+    border-top-style: solid;
+    border-top-width: thin;
+    padding-bottom: 1rem;
+}
