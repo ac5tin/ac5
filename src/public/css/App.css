@@ -2,6 +2,10 @@
     font-family: 'Roboto Mono',monospace;
 }
 
+#logo{
+    height:3rem;
+    width:auto;
+}
 
 /* welcome message text styling */
 #home{
