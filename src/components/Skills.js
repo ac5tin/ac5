@@ -6,7 +6,7 @@ const Skills = () => (
         <div className="columns is-desktop">
             <div className="column">
                 <span className="skillTech">
-                    <img src="http://pluspng.com/img-png/javascript-logo-vector-png-logo-of-javascript-195.png" alt="javascript" />
+                    <img src="https://pluspng.com/img-png/javascript-logo-vector-png-logo-of-javascript-195.png" alt="javascript" />
                     <h3>Javascript</h3>
                     <p>- React</p>
                     <p>- Express</p>
