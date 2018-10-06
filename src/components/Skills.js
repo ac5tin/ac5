@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Skills = () => (
-    <div id="skills">
+    <div className="section" id="skills">
         <h1>skills</h1>
         <div className="columns is-desktop">
             <div className="column">

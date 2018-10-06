@@ -2,6 +2,13 @@
     font-family: 'Roboto Mono',monospace;
 }
 
+
+/* fix navbar-fixed-top */
+.navbar.is-fixed-top{
+    top:0
+}
+
+
 #logo{
     height:3rem;
     width:auto;
@@ -36,17 +43,15 @@
 
 
 /* seciton paddings and font size*/
-#about,#footer,#skills{
+.section{
     padding: 1rem 1rem 5rem 1rem;
 }
-#about h1,#skills h1{
+#about h1,#skills h1,#work h1{
     font-size: 1.5rem;
 }
 
 
 /* about section */
-
-
 #about p{
     text-align: center;
 }
@@ -68,6 +73,25 @@
 
 #skills span.skillTech img{
     height: 175px;
+}
+
+
+
+/* work section */
+.section#work hr{
+    margin: 0.5rem 0;
+}
+
+.section#work h2{
+    font-size: 1.25rem;
+}
+.section#work h3{
+    font-size:1.15rem;
+    padding-bottom: 0.3rem;
+}
+
+.section#work .proj{
+    padding: 1rem 0;
 }
 
 
