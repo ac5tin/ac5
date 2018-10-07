@@ -94,6 +94,23 @@
     padding: 1rem 0;
 }
 
+.section#work .proj .projTxt h4{
+    font-size: 1.1rem;
+    text-decoration: underline;
+}
+
+.section#work .proj .projTxt i{
+    padding:1rem 0;
+    display: block;
+}
+
+@media screen and (min-width: 1024px){
+    .section#work .proj .projTxt{
+        padding-top: 7rem;
+    }
+}
+
+
 
 /* footer */
 #footer a{
