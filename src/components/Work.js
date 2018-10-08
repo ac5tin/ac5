@@ -33,7 +33,9 @@ const Work = () => (
                         <br />
                         <p>php for backend and jQuery on the frontend</p>
                         <br />
-                        <i>Heavily inspired by <a href="https://transfer.sh/">transfer.sh</a></i>
+                        <i>supports PayPal</i>
+                        <i>nice dashboard for staff members</i>
+                        <i>simple and easy to use interface</i>
                         <p>visit <a href="http://www.musiclub.rf.gd/">musiclub.rf.gd</a></p>
                     </div>
                 </div>

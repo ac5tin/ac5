@@ -24,7 +24,7 @@ const Skills = () => (
                     <h4>The very first server-side language I've learnt is PHP.</h4>
                 </span>
                 <span className="skillTech">
-                    <img src="https://i.imgur.com/l2b0aXR.png" alt="CSS" />
+                    <img src="https://i.imgur.com/enlK46r.png" alt="CSS" />
                     <h3>CSS</h3>
                 </span>
             </div>

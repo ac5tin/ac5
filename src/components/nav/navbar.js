@@ -6,7 +6,7 @@ const Navbar = () => (
         <nav className="navbar is-white" role="navigation" aria-label="main navigation">
             <div className="navbar-brand">
                 {/* <h2 className="navbar-item">ac5</h2> */}
-                <img id="logo" className="navbar-item" alt="AC" src="https://i.imgur.com/ZzrFQy9.png"  />
+                <img id="logo" className="navbar-item" alt="AC" src="https://i.imgur.com/5qo59os.png"  />
                 
 
 
