@@ -5,8 +5,9 @@ const About = () => (
         <h1>about me</h1>
         <br />
         <p>
-            I am a web developer who lives in Hong Kong. 
+            I am a web developer who lives in Hong Kong.
         </p>
+        <p>Recently graduated from the University of Liverpool in Computer Science</p>
     </div>
 )
 

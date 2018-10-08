@@ -24,13 +24,13 @@ const Skills = () => (
                     <h4>The very first server-side language I've learnt is PHP.</h4>
                 </span>
                 <span className="skillTech">
-                    <img src="https://ubisafe.org/images/css-svg.png" alt="CSS" />
+                    <img src="https://i.imgur.com/l2b0aXR.png" alt="CSS" />
                     <h3>CSS</h3>
                 </span>
             </div>
             <div className="column">
                 <span className="skillTech">
-                    <img src="https://sg.fiverrcdn.com/photos/97934758/original/8a653440b0cd9a64742e9f0d23dec893b9ece09c.png?1502638865" alt="mysql" />
+                    <img src="https://i.imgur.com/rqgDwAO.png" alt="mysql" />
                     <h3>SQL</h3>
                     <p>- MySQL</p>
                     <p>- Postgresql</p>

@@ -5,14 +5,38 @@ const Work = () => (
         <h1>Work</h1>
         <br />
         <div id="web-proj">
-            <div className="proj">
-                <h3>Downme.xyz</h3>
+            <div className="proj" id="downmexyz">
+                <div className="columns is-desktop">
+                    <div className="column">
+                        <h3>Downme.xyz</h3>
+                        <img src="https://gph.to/2pHcG2b" alt="uploading + downloading from terminal" />
+                    </div>
+                    <div className="column projTxt">
+                        <h4>sharing files from the commandline</h4>
+                        <br />
+                        <p>Node.js server + PostgreSQL database + AWS S3 storage</p>
+                        <br />
+                        <i>Heavily inspired by <a href="https://transfer.sh/">transfer.sh</a></i>
+                        <p>visit <a href="http://www.downme.xyz/">downme.xyz</a></p>
+                    </div>
+                </div>
+                
             </div>
-            <div className="proj">
-                <h3>Musiclub</h3>
-            </div>
-            <div className="proj">
-                <h3>University CMS</h3>
+            <div className="proj" id="musiclub">
+                <div className="columns is-desktop">
+                    <div className="column">
+                        <h3>Musiclub</h3>
+                        <img src="https://media.giphy.com/media/5ibv9xcRLYf02Mz5Xs/giphy.gif" alt="uploading + downloading from terminal" />
+                    </div>
+                    <div className="column projTxt">
+                        <h4>online music instrument store</h4>
+                        <br />
+                        <p>php for backend and jQuery on the frontend</p>
+                        <br />
+                        <i>Heavily inspired by <a href="https://transfer.sh/">transfer.sh</a></i>
+                        <p>visit <a href="http://www.musiclub.rf.gd/">musiclub.rf.gd</a></p>
+                    </div>
+                </div>
             </div>
         </div>
         <hr />

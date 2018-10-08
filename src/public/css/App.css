@@ -108,6 +108,9 @@
     .section#work .proj .projTxt{
         padding-top: 7rem;
     }
+    .section#work .proj#downmexyz .projTxt,.section#work .proj#musiclub .projTxt{
+        padding-top: 4rem;
+    }
 }
 
 
