@@ -3,13 +3,13 @@ import React from 'react';
 
 const Work = () => (
     <div className="section" id="work">
-        <h1>Work</h1>
+        <h1>work</h1>
         <br />
         <div id="web-proj">
             <div className="proj" id="downmexyz">
                 <div className="columns is-desktop">
                     <div className="column">
-                        <h3>Downme.xyz</h3>
+                        <h3>&#8681; Downme.xyz &#10066;</h3>
                         <img src="https://gph.to/2pHcG2b" alt="uploading + downloading from terminal" />
                     </div>
                     <div className="column projTxt">
@@ -26,7 +26,7 @@ const Work = () => (
             <div className="proj" id="musiclub">
                 <div className="columns is-desktop">
                     <div className="column">
-                        <h3>Musiclub</h3>
+                        <h3>&#9835; Musiclub &#9834;</h3>
                         <img src="https://media.giphy.com/media/5ibv9xcRLYf02Mz5Xs/giphy.gif" alt="uploading + downloading from terminal" />
                     </div>
                     <div className="column projTxt">
@@ -68,7 +68,7 @@ const Work = () => (
             <div className="proj">
                 <div className="columns is-desktop">
                     <div className="column">
-                        <h3>&#10093; LiteNotes &#10092;</h3>
+                        <h3>&#9998; LiteNotes &#10000;</h3>
                         <img src="https://gph.to/2RxnXyP" alt="LiteNotes converts normal text into HTML" />
                     </div>
                     <div className="column projTxt">
