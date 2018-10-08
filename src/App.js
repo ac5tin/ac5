@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 
+
 // load css
 import 'bulma/css/bulma.css';
 import './public/css/App.css';

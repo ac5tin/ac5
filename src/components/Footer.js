@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 const Footer = () => (
     <div className="section" id="footer">
         <p>Profiles :</p>

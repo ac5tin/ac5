@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 const Work = () => (
     <div className="section" id="work">
         <h1>Work</h1>

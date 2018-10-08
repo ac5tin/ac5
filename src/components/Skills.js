@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 const Skills = () => (
     <div className="section" id="skills">
         <h1>skills</h1>
