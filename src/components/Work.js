@@ -49,7 +49,7 @@ const Work = () => (
                 <div className="columns is-desktop">
                     <div className="column">
                         <h3>&#10093; LiteEditor &#10092;</h3>
-                        <img src="https://gph.to/2Rue98F" alt="LiteEditor has multiple themes and fonts" />
+                        <img src="https://media.giphy.com/media/n3SC7VFTQtObqtKzej/giphy.gif" alt="LiteEditor has multiple themes and fonts" />
                     </div>
                     <div className="column projTxt">
                         <h4>a very lightweight code editor ~</h4>
@@ -69,7 +69,7 @@ const Work = () => (
                 <div className="columns is-desktop">
                     <div className="column">
                         <h3>&#9998; LiteNotes &#10000;</h3>
-                        <img src="https://gph.to/2RxnXyP" alt="LiteNotes converts normal text into HTML" />
+                        <img src="https://media.giphy.com/media/LwH9s4zooCXyIB2iZR/giphy.gif" alt="LiteNotes converts normal text into HTML" />
                     </div>
                     <div className="column projTxt">
                         <h4>converts notes into styled HTML</h4>
