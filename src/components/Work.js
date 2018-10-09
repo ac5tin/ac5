@@ -10,7 +10,7 @@ const Work = () => (
                 <div className="columns is-desktop">
                     <div className="column">
                         <h3>&#8681; Downme.xyz &#10066;</h3>
-                        <img src="https://gph.to/2pHcG2b" alt="uploading + downloading from terminal" />
+                        <img src="https://media.giphy.com/media/8PgTjsTEHEXt2jR7PV/giphy.gif" alt="uploading + downloading from terminal" />
                     </div>
                     <div className="column projTxt">
                         <h4>sharing files from the commandline</h4>
