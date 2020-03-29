@@ -14,6 +14,8 @@ const Message = () => (
             <Typing.Delay ms={2000} />
             <p>I am a Web Developer</p>
             <Typing.Delay ms={5000} />
+            {/* Temporary fix : https://github.com/notadamking/react-typing-animation/issues/50 */}
+            <Typing.Backspace count={51} speed={0} />
         </Typing>
 
         
