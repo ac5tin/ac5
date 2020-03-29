@@ -8,7 +8,7 @@ const About = () => (
         <p>
             I am a web developer who lives in Hong Kong.
         </p>
-        <p>Recently graduated from the University of Liverpool in Computer Science</p>
+        <p>Graduated from the University of Liverpool in Computer Science</p>
     </div>
 )
 

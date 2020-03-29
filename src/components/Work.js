@@ -3,83 +3,59 @@ import React from 'react';
 
 const Work = () => (
     <div className="section" id="work">
-        <h1>work</h1>
+        <h1>web related</h1>
         <br />
         <div id="web-proj">
             <div className="proj" id="downmexyz">
                 <div className="columns is-desktop">
                     <div className="column">
                         <h3>&#8681; Downme.xyz &#10066;</h3>
-                        <img src="https://media.giphy.com/media/8PgTjsTEHEXt2jR7PV/giphy.gif" alt="uploading + downloading from terminal" />
+                        <img src="https://i.imgur.com/TgLPGAI.png" alt="uploading + downloading from terminal" />
                     </div>
                     <div className="column projTxt">
                         <h4>sharing files from the commandline</h4>
                         <br />
-                        <p>Node.js server + PostgreSQL database + AWS S3 storage</p>
+                        <p>Go server + React frontend + Redis + AWS S3 storage</p>
                         <br />
-                        <i>Heavily inspired by <a href="https://transfer.sh/">transfer.sh</a></i>
-                        <p>visit <a href="http://www.downme.xyz/">downme.xyz</a></p>
+                        <i>Heavily inspired by <a href="https://transfer.sh/" target="_blank" rel="noopener noreferrer">transfer.sh</a></i>
+                        <p>visit <a href="https://downme.xyz/" target="_blank" rel="noopener noreferrer">downme.xyz</a></p>
                     </div>
                 </div>
                 
             </div>
-            <div className="proj" id="musiclub">
+
+            <div className="proj" id="SimpleCSS">
                 <div className="columns is-desktop">
                     <div className="column">
-                        <h3>&#9835; Musiclub &#9834;</h3>
-                        <img src="https://media.giphy.com/media/5ibv9xcRLYf02Mz5Xs/giphy.gif" alt="uploading + downloading from terminal" />
+                        <h3>&#128396; SimpleCSS &#128393;</h3>
+                        <img src="https://i.imgur.com/535uowc.png" alt="Minimalistic CSS Framework" />
                     </div>
                     <div className="column projTxt">
-                        <h4>online music instrument store</h4>
+                        <h4>simple minimalistic css framework</h4>
                         <br />
-                        <p>php for backend and jQuery on the frontend</p>
+                        <p>Flexbox columns</p>
                         <br />
-                        <i>supports PayPal</i>
-                        <i>nice dashboard for staff members</i>
-                        <i>simple and easy to use interface</i>
-                        <p>visit <a href="http://www.musiclub.rf.gd/">musiclub.rf.gd</a></p>
+                        <p>visit <a href="https://ac5tin.github.io/simplecss/" target="_blank" rel="noopener noreferrer">simplecss</a></p>
                     </div>
                 </div>
+                
             </div>
         </div>
         <hr />
         <h2>non-web related personal project</h2>
         <div id="non-web-proj">
-            <div className="proj">
+        <div className="proj">
                 <div className="columns is-desktop">
                     <div className="column">
-                        <h3>&#10093; LiteEditor &#10092;</h3>
-                        <img src="https://media.giphy.com/media/n3SC7VFTQtObqtKzej/giphy.gif" alt="LiteEditor has multiple themes and fonts" />
+                        <h3>&#128477; SimplePassword &#9919;</h3>
+                        <img src="https://i.imgur.com/HzD2Tt0.png" alt="Minimalistic Password manager" />
                     </div>
                     <div className="column projTxt">
-                        <h4>a very lightweight code editor ~</h4>
+                        <h4>a minimalistic password manager that work in the terminal ~</h4>
                         <br />
-                        <p>
-                            Written in Java using JavaFX and <a href="https://github.com/FXMisc/RichTextFX">RichTextFX</a>
-                        </p>
+                        <p>Written in pure Go</p>
                         <br />
-                        <i>Supports Syntax Highlighting</i>
-                        <i>Multiple Colour Themes and Fonts Built-in</i>
-                        <i>Minimalist Design</i>
-                    </div>
-                </div>
-                
-            </div>
-            <div className="proj">
-                <div className="columns is-desktop">
-                    <div className="column">
-                        <h3>&#9998; LiteNotes &#10000;</h3>
-                        <img src="https://media.giphy.com/media/LwH9s4zooCXyIB2iZR/giphy.gif" alt="LiteNotes converts normal text into HTML" />
-                    </div>
-                    <div className="column projTxt">
-                        <h4>converts notes into styled HTML</h4>
-                        <br />
-                        <p>
-                            Written entirely in Java and the GUI used JavaFX.
-                        </p>
-                        <br />
-                        <i>A headless CLI tool that supports conversion from the terminal</i>
-                        <i>Custom CSS that styles the text</i>
+                        <p>Visit <a href="https://github.com/ac5tin/simplepwd" target="_blank" rel="noopener noreferrer">Simplepwd</a></p>
                     </div>
                 </div>
                 
